@@ -1,6 +1,6 @@
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B5EEA,100:8B5CF6&height=220&section=header&text=Fawaz%20Ahmed&fontSize=85&fontAlignY=42&desc=AI%20Engineer%20%7C%20GenAI%20%7C%20RAG%20%7C%20Agentic%20Systems&descAlignY=62&descSize=20&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-# Fawaz Ahmed
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C9EF8&center=true&vCenter=true&width=640&lines=AI+Engineer;GenAI+%7C+RAG+%7C+Agentic+Systems;Real-Time+Voice+Pipelines;LLM+Infrastructure+%26+Access+Control" alt="Typing SVG" />
 
@@ -13,7 +13,14 @@
 <br/>
 
 ![Now](https://img.shields.io/badge/NOW-AI_Engineer_%40_Wavetec_Pvt_Ltd-1B5EEA?style=for-the-badge&labelColor=0D3B8E&logoColor=white)
+&nbsp;
 ![Prev](https://img.shields.io/badge/PREV-AI_Engineer_%40_Codet_AI-8B5CF6?style=for-the-badge&labelColor=5B21B6&logoColor=white)
+
+<br/>
+
+![IBA](https://img.shields.io/badge/MS_in_AI-IBA_Karachi_(Aug_2026)-C0272D?style=for-the-badge&labelColor=8B0000&logoColor=white)
+&nbsp;
+![FAST](https://img.shields.io/badge/BS_in_AI-FAST--NUCES_(2021--2025)-1A56A0?style=for-the-badge&labelColor=0D3366&logoColor=white)
 
 </div>
 
@@ -157,15 +164,3 @@ Deep autoencoder that reconstructs plausible color from grayscale images using a
 </tr>
 </table>
 
----
-
-
-<div align="center">
-
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=FawazAhmed02&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FawazAhmed02&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
-
-</div>
