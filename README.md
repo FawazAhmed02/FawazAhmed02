@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B5EEA,100:8B5CF6&height=220&section=header&text=Fawaz%20Ahmed&fontSize=85&fontAlignY=42&desc=AI%20Engineer%20%7C%20GenAI%20%7C%20RAG%20%7C%20Agentic%20Systems&descAlignY=62&descSize=20&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:064E3B,100:10B981&height=220&section=header&text=Fawaz%20Ahmed&fontSize=85&fontAlignY=42&desc=AI%20Engineer%20%7C%20GenAI%20%7C%20RAG%20%7C%20Agentic%20Systems&descAlignY=62&descSize=20&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C9EF8&center=true&vCenter=true&width=640&lines=AI+Engineer;GenAI+%7C+RAG+%7C+Agentic+Systems;Real-Time+Voice+Pipelines;LLM+Infrastructure+%26+Access+Control" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=10B981&center=true&vCenter=true&width=640&lines=AI+Engineer;GenAI+%7C+RAG+%7C+Agentic+Systems;Real-Time+Voice+Pipelines;LLM+Infrastructure+%26+Access+Control" alt="Typing SVG" />
 
 <br/>
 
@@ -24,7 +24,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1B5EEA,100:8B5CF6&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:064E3B,100:10B981&height=3" width="100%"/>
 
 <br/>
 
@@ -32,11 +32,13 @@ AI Engineer with 1+ year of experience building production-grade GenAI systems. 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1B5EEA,100:8B5CF6&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:064E3B,100:10B981&height=3" width="100%"/>
 
 <br/>
 
-## Tech Stack
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=0&color=10B981&repeat=false&vCenter=true&width=180&height=40&lines=Tech+Stack" />
+
+<br/>
 
 **AI / ML**
 
@@ -81,11 +83,13 @@ AI Engineer with 1+ year of experience building production-grade GenAI systems. 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1B5EEA,100:8B5CF6&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:064E3B,100:10B981&height=3" width="100%"/>
 
 <br/>
 
-## Projects
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=0&color=10B981&repeat=false&vCenter=true&width=140&height=40&lines=Projects" />
+
+<br/>
 
 <table>
 <tr>
@@ -173,6 +177,4 @@ Deep autoencoder that reconstructs plausible color from grayscale images using a
 </tr>
 </table>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:1B5EEA&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,100:064E3B&height=150&section=footer" width="100%"/>
