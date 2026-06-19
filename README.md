@@ -24,11 +24,17 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1B5EEA,100:8B5CF6&height=3" width="100%"/>
+
+<br/>
 
 AI Engineer with 1+ year of experience building production-grade GenAI systems. Previously at **Codet AI** where I architected multi-tenant LLM infrastructure with fine-grained access control, RBAC/ABAC policy engines, and LangGraph-based agentic workflows. Now at **Wavetec Pvt Ltd** building fully offline real-time voice pipelines with sub-second latency and dual-path RAG systems. Fluent across the full AI stack: backend APIs, vector databases, agent frameworks, and speech systems. BS in AI from FAST-NUCES. Pursuing MS in AI at IBA (Aug 2026). **Winner — IBA Gen AI Datathon.**
 
----
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1B5EEA,100:8B5CF6&height=3" width="100%"/>
+
+<br/>
 
 ## Tech Stack
 
@@ -73,8 +79,11 @@ AI Engineer with 1+ year of experience building production-grade GenAI systems. 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
----
+<br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1B5EEA,100:8B5CF6&height=3" width="100%"/>
+
+<br/>
 
 ## Projects
 
@@ -164,3 +173,6 @@ Deep autoencoder that reconstructs plausible color from grayscale images using a
 </tr>
 </table>
 
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:1B5EEA&height=150&section=footer" width="100%"/>
