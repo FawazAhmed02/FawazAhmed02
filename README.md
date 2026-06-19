@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A2943,100:D97706&height=220&section=header&text=Fawaz%20Ahmed&fontSize=85&fontAlignY=42&desc=AI%20Engineer%20%7C%20GenAI%20%7C%20RAG%20%7C%20Agentic%20Systems&descAlignY=62&descSize=20&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A2943,55:1D4ED8,100:D97706&height=220&section=header&text=Fawaz%20Ahmed&fontSize=85&fontAlignY=42&desc=AI%20Engineer%20%7C%20GenAI%20%7C%20RAG%20%7C%20Agentic%20Systems&descAlignY=62&descSize=20&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
@@ -24,17 +24,11 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A2943,100:D97706&height=4&width=1500" width="100%"/>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A2943,55:1D4ED8,100:D97706&height=4&width=1500" width="100%"/>
 
 AI Engineer with 1+ year of experience building production-grade GenAI systems. Previously at **Codet AI** where I architected multi-tenant LLM infrastructure with fine-grained access control, RBAC/ABAC policy engines, and LangGraph-based agentic workflows. Now at **Wavetec Pvt Ltd** building fully offline real-time voice pipelines with sub-second latency and dual-path RAG systems. Fluent across the full AI stack: backend APIs, vector databases, agent frameworks, and speech systems. BS in AI from FAST-NUCES. Pursuing MS in AI at IBA (Aug 2026). **Winner — IBA Gen AI Datathon.**
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A2943,100:D97706&height=4&width=1500" width="100%"/>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A2943,55:1D4ED8,100:D97706&height=4&width=1500" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=0&color=D97706&repeat=false&vCenter=true&width=180&height=40&lines=Tech+Stack" />
 
@@ -81,11 +75,7 @@ AI Engineer with 1+ year of experience building production-grade GenAI systems. 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A2943,100:D97706&height=4&width=1500" width="100%"/>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A2943,55:1D4ED8,100:D97706&height=4&width=1500" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=0&color=D97706&repeat=false&vCenter=true&width=140&height=40&lines=Projects" />
 
@@ -177,4 +167,4 @@ Deep autoencoder that reconstructs plausible color from grayscale images using a
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97706,100:1A2943&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97706,45:1D4ED8,100:1A2943&height=150&section=footer" width="100%"/>
